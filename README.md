@@ -61,6 +61,7 @@
 <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
+<img alt="Expo src="https://img.shields.io/badge/-Expo-eee?style=flat-square&logo=expo&logoColor=black" />
 </p>
 
 <h5 align='center'>Backend Developer</h5>
