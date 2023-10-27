@@ -1,14 +1,9 @@
-![Bottom up svg](assets/Bottom_up.svg)
+<h2 align="center">👋 Hi there, I'm PacificD</h2>
 
-<h1 align="center">👋 Hi there, I'm PacificD</h1>
-
-<h3 align="center">🔭 A passionate developer from India</h3>
-<h3 align='center'>😄 Pronouns: PacificD he/him</h3>
-<h3 align='center'>⚡ Fun fact: standard INFP :)</h3>
-
-<h4 align='center'> 👨‍💻 All of my projects are available at https://github.com </h4>
-
-
+<h4 align="center">🔭 A passionate developer from Philippines 🇵🇭</h4>
+<h4 align='center'>😄 Pronouns: PacificD he/him</h4>
+<h4 align='center'>⚡ Fun fact: standard INFP :)</h4>
+<h4 align='center'>💗 I'm currently studying WebRTC and Swift</h4>
 
 <picture>
   <source
